@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 
-// Importando os componentes que você criou
+
 import ListarTarefas from './pages/tarefa/listar';
 import ListarConcluidas from './pages/tarefa/concluidas';
 import ListarNaoConcluidas from './pages/tarefa/naoconcluidas';
