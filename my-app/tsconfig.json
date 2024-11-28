@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "pages/AlterarTarefa.tsx", "pages/ListarTarefas.tsx", "pages/ListarNaoConcluidas.tsx", "pages/ListarConcluidas.tsx", "pages/CadastrarTarefa.tsx"  ]
 }

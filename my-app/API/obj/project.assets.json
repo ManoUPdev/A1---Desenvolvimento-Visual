@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\Downloads\\API\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\OneDrive\\Área de Trabalho\\A1---Desenvolvimento-Visual\\my-app\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\emanu\\Downloads\\API\\API\\API\\API.csproj",
+      "projectPath": "C:\\Users\\emanu\\OneDrive\\Área de Trabalho\\A1---Desenvolvimento-Visual\\my-app\\API\\API.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\Downloads\\API\\API\\API\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\OneDrive\\Área de Trabalho\\A1---Desenvolvimento-Visual\\my-app\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config"
